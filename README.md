@@ -5,7 +5,6 @@
 - 📫 You can reach me here: info@merendamattia.com
 
 ---
-
 <p align="center">
  <img align='center' width="49%" src="https://github-readme-stats.vercel.app/api?username=merendamattia&show_icons=true&theme=light&hide_border=true"/>
  <img align='center' width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=merendamattia&theme=light&hide_border=true"/>
