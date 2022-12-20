@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @merendamattia
-- 🎓 I'm currently studying at @ Università degli Studi di Parma (UNIPR)
+- 🎓 I'm currently studying at @ Università degli Studi di Parma (Unipr.it)
 - 👀 I’m interested in coding everything
 - 🌱 I’m currently learning Mobile and Blockchain's Development
 - 📫 You can reach me here: info@merendamattia.com
