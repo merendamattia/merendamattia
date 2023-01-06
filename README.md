@@ -16,14 +16,12 @@
 ---
 
 <div style="display: flex; flex-wrap: wrap;" align="center">
- <img style="flex: 1 1 100px;" src="https://github-readme-stats.vercel.app/api?username=merendamattia&theme=react&hide_border=true&include_all_commits=false&count_private=false"/>
- <img style="flex: 1 1 100px;" src="https://github-readme-streak-stats.herokuapp.com/?user=merendamattia&theme=react&hide_border=true"/>
+ <!--<img style="flex: 1 1 100px;" src="https://github-readme-stats.vercel.app/api?username=merendamattia&theme=react&hide_border=true&include_all_commits=false&count_private=false"/>-->
+ <img style="flex: 1 1 100px;" src="https://github-readme-streak-stats.herokuapp.com/?user=merendamattia&theme=react&hide_border=true"/><br><br>
+ 
+[![](https://visitcount.itsvg.in/api?id=merendamattia&icon=0&color=0)](https://visitcount.itsvg.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/merendamattia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/merendamattia) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/merendamattiaa) 
  </div>
  
----
-
-[![](https://visitcount.itsvg.in/api?id=merendamattia&icon=0&color=0)](https://visitcount.itsvg.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/merendamattia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/merendamattia) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/merendamattiaa) 
-
 ---
 
 <p align="center">
