@@ -21,7 +21,9 @@
  <img style="flex: 1 1 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merendamattia&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
  <br><br>
 
-[![](https://visitcount.itsvg.in/api?id=merendamattia&icon=0&color=0)](https://visitcount.itsvg.in) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/merendamattia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/merendamattia) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/merendamattiaa) 
+[![](https://visitcount.itsvg.in/api?id=merendamattia&icon=0&color=0)](https://visitcount.itsvg.in) 
+<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/merendamattia) 
  </div>
  
 <p align="center">
