@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @merendamattia
 - 🎓 I'm studying at @ Università degli Studi di Parma (Unipr.it)
-- 🌱 I’m currently learning Static Analysis and Blockchain's Development
+- 🌱 I’m currently learning Static Program Analysis and Blockchain's Development
 - 📫 You can reach me here: info@merendamattia.com
 
 <br>
