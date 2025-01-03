@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @merendamattia
-- 🎓 I'm studying at @ Università degli Studi di Parma (Unipr.it)
+- 🎓 I'm studying at @ Università degli Studi di Parma ([unipr.it](https://www.unipr.it/))
 - 🌱 I’m currently learning Static Program Analysis and Blockchain's Development
 - 📫 You can reach me here: info@merendamattia.com
 
@@ -18,9 +18,12 @@
  -->
  <img style="flex: 1 1 100px;" src="https://github-readme-streak-stats.herokuapp.com/?user=merendamattia&theme=react&hide_border=true"/>
  <br>
+  <!--
  <img style="flex: 1 1 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merendamattia&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
- <br><br>
-
+ <br>
+ -->
+ <br>
+ 
 [![](https://visitcount.itsvg.in/api?id=merendamattia&icon=0&color=0)](https://visitcount.itsvg.in) 
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/merendamattia) 
