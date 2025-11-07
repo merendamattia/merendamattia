@@ -14,4 +14,8 @@
 
 </div>
 
-[![Mattia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=merendamattia&theme=github-compact)](https://github.com/merendamattia/github-readme-activity-graph)
+<div style="width: 75%; margin: 0 auto;">
+  <a href="https://github.com/merendamattia/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=merendamattia&theme=github-compact" alt="Mattia's github activity graph" style="width: 100%;">
+  </a>
+</div>
